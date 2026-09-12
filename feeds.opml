@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Asterism RSS feeds</title>
+  </head>
+  <body>
+    <outline type="rss" text="NHK主要ニュース" xmlUrl="https://www3.nhk.or.jp/rss/news/cat0.xml" />
+    <outline type="rss" text="ITmedia AI+" xmlUrl="https://rss.itmedia.co.jp/rss/2.0/aiplus.xml" />
+    <outline type="rss" text="Publickey" xmlUrl="https://www.publickey1.jp/atom.xml" />
+    <outline type="rss" text="Impress Watch" xmlUrl="https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf" />
+  </body>
+</opml>
